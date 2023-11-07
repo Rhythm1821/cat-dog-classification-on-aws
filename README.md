@@ -83,3 +83,4 @@
 
     ECR_REPOSITORY_NAME = simple-app# cat-dog-classification-on-aws
 # cat-dog-classification-on-aws
+# cat-dog-classification-on-aws
